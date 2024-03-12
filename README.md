@@ -1,4 +1,4 @@
-Weather web🌦️
+#Weather web🌦️
 
 WeatherTell Now is a minimalist weather web application developed with React and JavaScript, utilizing the OpenWeatherMap API to provide real-time weather updates for your current location. This lightweight and straightforward project focus on delivering precise information about the present weather conditions.
 
