@@ -1,3 +1,10 @@
+<h1>Output</h1>
+
+<img width="609" alt="Screenshot 2024-03-14 at 6 38 09 PM" src="https://github.com/YuvrajHarsh04/React-weather-app/assets/117851620/12514cc0-988f-48e1-a1e2-cfe51a684192">
+
+
+
+
 <h1>Weather web🌦️</h1>
 
 WeatherTell Now is a minimalist weather web application developed with React and JavaScript, utilizing the OpenWeatherMap API to provide real-time weather updates for your current location. 
